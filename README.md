@@ -4,7 +4,7 @@
 
 </div>
 
-### Hola, soy Jarid 👋
+### Hola, soy Kriling 👋
 
 Ingeniero en Desarrollo de Software con más de 2 años de experiencia en el sector financiero (Grupo Salinas), especializado en backend con **Java (Spring Boot)** y frontend con **Angular**.
 
