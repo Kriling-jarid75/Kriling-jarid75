@@ -9,6 +9,7 @@
 Ingeniero en Desarrollo de Software con más de 2 años de experiencia en el sector financiero (Grupo Salinas), especializado en backend con **Java (Spring Boot)** y frontend con **Angular**.
 
 - 🔭 Actualmente trabajo en soluciones de operaciones monetarias y no monetarias para clientes en México, Guatemala y Honduras.
+- 💛 Me apasiona especialmente el frontend: darle vida a las interfaces y mejorar la experiencia del usuario con Angular.
 - 🛠️ Stack: Java, Spring Boot, Angular, TypeScript, Oracle, MySQL, REST APIs, Mockito, Jasmine, SonarQube.
 - 🚀 Construyendo actualmente: una app de gestión tipo PWA con Angular 18 + Java 21.
 - 🌐 Portafolio: [krilingdev.netlify.app](https://krilingdev.netlify.app)
@@ -25,13 +26,13 @@ Ingeniero en Desarrollo de Software con más de 2 años de experiencia en el sec
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-#### Estadísticas
+<br>
 
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Kriling-jarid75&show_icons=true&theme=default&hide_border=true" width="48%"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kriling-jarid75&hide_border=true" width="48%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:56CCF2,100:2F80ED&height=120&section=footer"/>
 </div>
 
-<div align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kriling-jarid75&layout=compact&hide_border=true" width="60%"/>
-</div>
+<p align="center">
+<a href="mailto:Kriling75@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat&logo=gmail&logoColor=white"/></a>
+<a href="https://krilingdev.netlify.app"><img src="https://img.shields.io/badge/-Portafolio-000000?style=flat&logo=netlify&logoColor=white"/></a>
+</p>
